@@ -125,6 +125,15 @@ You can also open `plans.db` in any SQLite GUI tool (DB Browser for SQLite) if y
 
 - Do NOT commit your `.env` file or API keys. Add `.env` to `.gitignore`.
 - If you want to test without API calls, use `DISABLE_AI=1` as shown above.
+<div align="center">
+  <img src="https://github.com/Yathnika/SMART-TASK-PLANNER/blob/main/Seach%20output.jpg?raw=true"
+       alt="Search Output"
+       style="width:80%; max-width:900px; display:block; margin:auto; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size:18px; font-weight:500; margin-top:16px; color: #333;">
+    This is a screenshot of the search output page showing results and layout of Smart Task Planner.
+  </p>
+</div>
+
 
 
 
