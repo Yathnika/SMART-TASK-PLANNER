@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Task Planner AI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 Smart Task Planner AI</h1>
+        <p>Enter a high-level goal, and the AI will break it down into actionable tasks.</p>
+        <div class="form-group">
+            <textarea id="goal-input" placeholder="e.g., Launch a new mobile app in 3 months"></textarea>
+            <button id="generate-btn">Generate Plan</button>
+            <a class="btn-link" href="/plans" style="margin-left:10px;">📚 History</a>
+        </div>
+        <div id="loader" class="loader" style="display: none;"></div>
+        <div id="results-container">
+            </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
