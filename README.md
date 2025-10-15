@@ -1,3 +1,9 @@
+<p>
+  <img src="./images/logo.png" alt="logo" width="64" style="vertical-align: middle; margin-right: 12px;">
+  <span style="vertical-align: middle;">This is the description text that appears to the right of the image.</span>
+</p>
+
+
 # 🧠 Smart Task Planner AI
 
 An intelligent web application that uses Google's Gemini AI to break down high-level goals into a detailed, actionable project plan.
@@ -43,7 +49,7 @@ An intelligent web application that uses Google Gemini API to turn high-level go
 1. Clone the repo:
 
 ```powershell
-git clone https://github.com/kavyavannur14/smart-task-planner.git
+git clone https://github.com/Yathnika/SMART-TASK-PLANNER.git
 cd smart-task-planner
 ```
 
@@ -117,6 +123,3 @@ You can also open `plans.db` in any SQLite GUI tool (DB Browser for SQLite) if y
 - Do NOT commit your `.env` file or API keys. Add `.env` to `.gitignore`.
 - If you want to test without API calls, use `DISABLE_AI=1` as shown above.
 
-## License
-
-This project is provided as-is (no license specified). Add a LICENSE file if you want to open-source it.
