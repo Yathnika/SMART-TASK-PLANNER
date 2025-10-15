@@ -1,8 +1,11 @@
-<p>
-  <img src="https://github.com/Yathnika/SMART-TASK-PLANNER/blob/main/Search%20Page.jpg" alt="logo" width="64" style="vertical-align: middle; margin-right: 12px;">
-  <span style="vertical-align: middle;"></span>
-</p>
-
+<div align="center">
+  <img src="https://github.com/Yathnika/SMART-TASK-PLANNER/blob/main/Search%20Page.jpg?raw=true"
+       alt="Search Page"
+       style="width:80%; max-width:900px; display:block; margin:auto; border-radius:10px;">
+  <p style="font-size:18px; font-weight:500; margin-top:15px;">
+    This is the Smart Task Planner – an intelligent tool to organize and track your daily activities efficiently.
+  </p>
+</div>
 
 # 🧠 Smart Task Planner AI
 
@@ -122,5 +125,6 @@ You can also open `plans.db` in any SQLite GUI tool (DB Browser for SQLite) if y
 
 - Do NOT commit your `.env` file or API keys. Add `.env` to `.gitignore`.
 - If you want to test without API calls, use `DISABLE_AI=1` as shown above.
+
 
 
