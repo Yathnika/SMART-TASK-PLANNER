@@ -1,6 +1,6 @@
 <p>
-  <img src="./images/logo.png" alt="logo" width="64" style="vertical-align: middle; margin-right: 12px;">
-  <span style="vertical-align: middle;">This is the description text that appears to the right of the image.</span>
+  <img src="https://github.com/Yathnika/SMART-TASK-PLANNER/blob/main/Search%20Page.jpg" alt="logo" width="64" style="vertical-align: middle; margin-right: 12px;">
+  <span style="vertical-align: middle;"></span>
 </p>
 
 
@@ -122,4 +122,5 @@ You can also open `plans.db` in any SQLite GUI tool (DB Browser for SQLite) if y
 
 - Do NOT commit your `.env` file or API keys. Add `.env` to `.gitignore`.
 - If you want to test without API calls, use `DISABLE_AI=1` as shown above.
+
 
